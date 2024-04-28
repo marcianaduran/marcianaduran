@@ -5,7 +5,7 @@ Hi! Welcome to my GitHub. I'm currently building my portfolio to demostrate my e
 Please reach out if you want to collaborate on a project!
 
 - ⚡ I'm interested in: scope 1, 2, and 3 GHG accounting, climate risk assessments, ESG reporting, utility operations, renewable energy deployment, and climate policies.
-- 📩 How to reach me: E-mail me at cmduran.oc@gmail.com
+- 📩 How to reach me: E-mail me at cmduran.oc@gmail.com or [LinkedIn](https://www.linkedin.com/in/claudia-m-duran/)
 - 🔍 Pronouns: she/her/hers
 
 ## Portfolio of Projects from Data Analytics Bootcamp:
