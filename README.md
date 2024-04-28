@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 YOUR TABLE
 
 </details>
+for emojis
+https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
