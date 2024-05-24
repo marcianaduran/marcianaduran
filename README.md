@@ -10,12 +10,20 @@ Please reach out if you want to collaborate on a project!
 
 ## Portfolio of Projects from Data Analytics Bootcamp:
 **VBA** 
-* [Stock Analysis](https://github.com/marcianaduran/stock-analysis)
+* [VBA Stock Analysis](https://github.com/marcianaduran/stock-analysis)
 
 **Python**
+* [Election Analysis using Python](https://github.com/marcianaduran/python_challenge/blob/main/PyBank/main.py)
+* [pandas for data manipulation](https://github.com/marcianaduran/pandas-challenge/blob/main/README.md)
+* [matplotlib, pandas, scipy.stats](https://github.com/marcianaduran/clinical_study/blob/main/pymaceuticals_starter.ipynb)
+* [OpenWeatherMap and Geoapify API Calls](https://github.com/marcianaduran/python-api-challenge/tree/main)
+* [Web-scraping](https://github.com/marcianaduran/beautiful_soup)
+* [ETL Crowdfunding Analysis](https://github.com/marcianaduran/crowdfunding_etl)
 
 **SQL**
-
+* [SQL](https://github.com/marcianaduran/sql-challenge)
+* [SQLAlchemy and Flask API](https://github.com/marcianaduran/sqlalchemy-challenge)
+* [NoSQL](https://github.com/marcianaduran/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
 
 <!--
 **marcianaduran/marcianaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
