@@ -25,6 +25,11 @@ Please reach out if you want to collaborate on a project!
 * [SQLAlchemy and Flask API](https://github.com/marcianaduran/sqlalchemy-challenge)
 * [NoSQL](https://github.com/marcianaduran/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
 
+**Machine Learning**
+* [Unsupervised Learning](https://github.com/marcianaduran/CryptoClustering.git)
+* Supervised Learning
+* Deep Learning
+
 <!--
 **marcianaduran/marcianaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
