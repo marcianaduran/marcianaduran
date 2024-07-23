@@ -27,7 +27,7 @@ Please reach out if you want to collaborate on a project!
 
 **Machine Learning**
 * [Unsupervised Learning](https://github.com/marcianaduran/CryptoClustering.git)
-* Supervised Learning
+* [Supervised Learning](https://github.com/marcianaduran/credit-risk-classification.git)
 * Deep Learning
 
 <!--
