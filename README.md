@@ -28,7 +28,7 @@ Please reach out if you want to collaborate on a project!
 **Machine Learning**
 * [Unsupervised Learning](https://github.com/marcianaduran/CryptoClustering.git)
 * [Supervised Learning](https://github.com/marcianaduran/credit-risk-classification.git)
-* Deep Learning
+* [Deep Learning](https://github.com/marcianaduran/deep-learning-challenge.git)
 
 <!--
 **marcianaduran/marcianaduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
